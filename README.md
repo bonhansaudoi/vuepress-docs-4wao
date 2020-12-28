@@ -18,9 +18,11 @@ Netlify:
    Publish directory: src/.vuepress/dist 
 
 Url:
-   https://4wao-vuepress-docs.netlify.app/
-
+   https://vuepress-docs-4wao.netlify.app/ 
+   
 Update:
    git add README.md
    git commit -m "update"
    git push -u origin master 
+
+https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Understanding_client-side_tools/Deployment
