@@ -1,0 +1,4 @@
+---
+title: Laravel
+sidebar: auto
+---

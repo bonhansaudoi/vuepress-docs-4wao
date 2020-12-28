@@ -1,0 +1,68 @@
+html, body
+  background black
+  color white
+
+h1
+  color red
+h2
+  color yellow
+  border-bottom none
+h3
+  color pink
+p
+  a
+    margin-left 10px
+    margin-right 10px
+
+.navbar
+  background black
+  border-bottom none
+  .site-name
+    color orange!important
+  .links
+    background black!important
+    color white
+.nav-links
+  a
+    color inherit
+    &:hover, &.router-link-active
+      color $accentColor!important
+
+.sidebar
+  background-color black
+  border-right none
+  color red
+a.sidebar-link
+  color white!important
+  &:hover, &.active
+    color $accentColor!important
+    border-left-color green!important
+
+.flex-container 
+  display flex
+  justify-content center
+  flex-direction row
+  flex-wrap wrap 
+  .tag
+    flex 1
+    background-color green
+    color white
+    padding 10px
+    margin 5px  
+    border 1px solid #ccc 
+    border-radius 3px    
+    text-alight center
+    align-items center 
+  
+@media (max-width: 800px) {
+  .flex-container {
+    flex-direction: column;
+  }
+} 
+
+.home 
+  .hero 
+    img
+      max-width 450px!important
+  .footer
+    border-top  none!important
