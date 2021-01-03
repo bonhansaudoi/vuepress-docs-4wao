@@ -28,8 +28,8 @@ module.exports = {
         link: 'https://www.youtube.com/',
       },
       {
-        text: 'MyMusic',
-        link: 'https://bonhansaudoi.github.io/youtube/'
+        text: 'MyMiss',
+        link: 'https://bonhansaudoi.github.io/myMiss/'
       },
       {
         text: 'MySad',
