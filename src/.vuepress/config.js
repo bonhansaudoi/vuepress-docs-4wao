@@ -27,14 +27,10 @@ module.exports = {
         text: 'Youtube',
         link: 'https://www.youtube.com/',
       },
-      {
-        text: 'MyMiss',
-        link: 'https://bonhansaudoi.github.io/myMiss/'
+      {   
+        text: 'SadMiss',
+        link: 'https://bonhansaudoi.github.io/sadmiss/'
       },
-      {
-        text: 'MySad',
-        link: 'https://bonhansaudoi.github.io/mySad/'
-      }
     ],
     sidebar: {
       // '/guide/': [
