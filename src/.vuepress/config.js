@@ -29,7 +29,7 @@ module.exports = {
       },
       {   
         text: 'SadMiss',
-        link: 'https://bonhansaudoi.github.io/sadmiss/myMiss'
+        link: 'https://bonhansaudoi.github.io/sadmiss'
       },
     ],
     sidebar: {
